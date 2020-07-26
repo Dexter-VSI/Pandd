@@ -1,0 +1,307 @@
+
+Jun 27, 2020 15:10:14.70 NEW SESSION
+Jun 27, 2020 15:10:14.70 [6028:5728:0627/151014.694:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 27, 2020 15:10:17.57 [6028:9028:0627/151017.575:ERROR:device_event_log_impl.cc(208)] [15:10:17.535] Bluetooth: bluetooth_adapter_winrt.cc:723 GetBluetoothAdapterStaticsActivationFactory failed: Class not registered (0x80040154)
+Jun 27, 2020 15:10:35.74 [6028:5728:0627/151035.746:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 27, 2020 15:11:35.05 [6028:5728:0627/151135.056:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 27, 2020 15:12:59.81 [6028:5728:0627/151259.816:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 27, 2020 15:16:45.79 [6028:5728:0627/151645.794:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 27, 2020 15:22:33.85 [6028:5728:0627/152233.851:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 27, 2020 15:27:36.47 [6028:9028:0627/152736.471:ERROR:sharing_service.cc(301)] Device un-registration failed with transient error
+Jun 27, 2020 15:32:33.86 [6028:5728:0627/153233.864:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 27, 2020 15:42:33.87 [6028:5728:0627/154233.873:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 27, 2020 15:52:33.89 [6028:5728:0627/155233.890:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 27, 2020 16:02:33.89 [6028:5728:0627/160233.899:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 27, 2020 16:12:33.91 [6028:5728:0627/161233.911:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 27, 2020 16:22:33.91 [6028:5728:0627/162233.911:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 27, 2020 16:32:33.93 [6028:5728:0627/163233.937:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 27, 2020 16:42:33.95 [6028:5728:0627/164233.952:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 27, 2020 22:18:10.01 [6028:5728:0627/221810.015:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 27, 2020 22:28:10.04 [6028:5728:0627/222810.041:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 27, 2020 22:38:10.04 [6028:5728:0627/223810.048:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 07:41:37.76 [6028:5728:0628/074137.764:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 07:42:45.72 [6028:5728:0628/074245.727:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 28, 2020 07:42:53.36 [6028:5728:0628/074253.363:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 28, 2020 07:48:20.86 [6028:5728:0628/074820.862:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 07:50:10.36 [6028:5728:0628/075010.360:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -118
+Jun 28, 2020 09:59:41.38 [6028:5728:0628/095941.389:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -7
+Jun 28, 2020 10:00:32.67 [6028:5728:0628/100032.678:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -7
+Jun 28, 2020 10:01:59.93 [6028:5728:0628/100159.934:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -7
+Jun 28, 2020 10:04:19.80 [6028:5728:0628/100419.807:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -7
+Jun 28, 2020 10:57:59.89 [6028:5728:0628/105759.894:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 28, 2020 10:58:02.57 [6028:5728:0628/105802.574:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 11:08:02.60 [6028:5728:0628/110802.602:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 11:18:02.61 [6028:5728:0628/111802.618:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 11:28:02.63 [6028:5728:0628/112802.634:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 11:38:02.64 [6028:5728:0628/113802.644:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 11:48:02.65 [6028:5728:0628/114802.650:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 11:58:02.66 [6028:5728:0628/115802.666:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 12:08:02.68 [6028:5728:0628/120802.682:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 12:18:02.69 [6028:5728:0628/121802.693:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 12:28:02.70 [6028:5728:0628/122802.700:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 12:38:02.70 [6028:5728:0628/123802.702:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 12:48:02.71 [6028:5728:0628/124802.716:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 12:58:02.72 [6028:5728:0628/125802.720:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 13:08:02.73 [6028:5728:0628/130802.730:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 13:18:02.74 [6028:5728:0628/131802.745:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 13:28:02.74 [6028:5728:0628/132802.749:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 13:38:02.75 [6028:5728:0628/133802.757:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 13:48:02.75 [6028:5728:0628/134802.759:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 13:58:02.76 [6028:5728:0628/135802.761:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 14:08:02.76 [6028:5728:0628/140802.764:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 14:18:02.77 [6028:5728:0628/141802.770:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 14:28:02.78 [6028:5728:0628/142802.786:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 14:38:02.79 [6028:5728:0628/143802.794:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 14:48:02.79 [6028:5728:0628/144802.797:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 14:58:02.80 [6028:5728:0628/145802.809:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 15:08:02.82 [6028:5728:0628/150802.825:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 15:18:02.82 [6028:5728:0628/151802.829:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 15:28:02.83 [6028:5728:0628/152802.838:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 15:38:02.85 [6028:5728:0628/153802.856:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 15:48:02.86 [6028:5728:0628/154802.867:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 15:58:02.87 [6028:5728:0628/155802.878:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 16:08:02.88 [6028:5728:0628/160802.884:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 16:18:02.89 [6028:5728:0628/161802.890:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 16:28:02.90 [6028:5728:0628/162802.901:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 16:38:02.91 [6028:5728:0628/163802.912:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 16:48:02.92 [6028:5728:0628/164802.924:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 19:49:55.70 [6028:5728:0628/194955.702:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 19:59:55.72 [6028:5728:0628/195955.722:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 20:09:55.73 [6028:5728:0628/200955.736:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 20:19:55.73 [6028:5728:0628/201955.738:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 20:29:55.74 [6028:5728:0628/202955.745:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 22:07:41.23 [6028:5728:0628/220741.236:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 22:17:41.25 [6028:5728:0628/221741.252:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 22:27:41.26 [6028:5728:0628/222741.265:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 22:37:41.28 [6028:5728:0628/223741.280:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 22:47:41.28 [6028:5728:0628/224741.284:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 22:57:41.30 [6028:5728:0628/225741.301:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 23:07:41.30 [6028:5728:0628/230741.304:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 23:17:41.32 [6028:5728:0628/231741.321:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 23:27:41.33 [6028:5728:0628/232741.337:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 23:37:41.34 [6028:5728:0628/233741.343:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 23:47:41.35 [6028:5728:0628/234741.359:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2020 23:57:41.36 [6028:5728:0628/235741.364:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 29, 2020 24:07:41.37 [6028:5728:0629/000741.370:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 29, 2020 24:17:41.38 [6028:5728:0629/001741.380:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jun 29, 2020 23:37:29.71 [6028:5728:0629/233729.718:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 01, 2020 09:51:25.72 [6028:5728:0701/095125.723:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 01, 2020 15:42:18.70 [6028:5728:0701/154218.687:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+Jul 09, 2020 09:59:16.92 NEW SESSION
+Jul 09, 2020 09:59:16.92 [7056:8172:0709/095916.924:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 09, 2020 09:59:46.80 [7056:8172:0709/095946.801:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 09, 2020 10:00:42.91 [7056:8172:0709/100042.917:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 09, 2020 10:02:06.17 [7056:8172:0709/100206.174:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 09, 2020 10:03:46.46 [2452:7176:0709/100346.469:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 09, 2020 10:04:10.91 [2452:7176:0709/100410.915:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 09, 2020 10:04:54.81 [2452:7176:0709/100454.814:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 09, 2020 10:06:37.30 [2452:7176:0709/100637.300:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 09, 2020 10:09:37.96 [2452:7176:0709/100937.963:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 09, 2020 10:15:28.21 [2452:7176:0709/101528.218:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 09, 2020 10:25:28.22 [2452:7176:0709/102528.223:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 09, 2020 10:35:28.22 [2452:7176:0709/103528.225:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+Jul 09, 2020 14:34:01.47 NEW SESSION
+Jul 09, 2020 14:34:01.47 [9740:2976:0709/143401.444:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jul 09, 2020 15:24:57.31 [9740:2976:0709/152457.315:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jul 09, 2020 15:25:01.21 [9740:2976:0709/152501.216:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 09, 2020 15:25:27.82 [9740:2976:0709/152527.826:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 09, 2020 16:29:02.52 [9740:7652:0709/162902.520:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 09, 2020 16:29:02.54 [9740:2976:0709/162902.528:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 09, 2020 16:30:17.52 [9740:7652:0709/163017.525:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 09, 2020 16:30:41.27 [9740:2976:0709/163041.272:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 09, 2020 16:32:10.53 [9740:7652:0709/163210.535:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 09, 2020 16:34:39.40 [9740:2976:0709/163439.405:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 09, 2020 16:36:52.54 [9740:7652:0709/163652.543:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 09, 2020 16:40:06.54 [9740:2976:0709/164006.547:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 09, 2020 16:42:04.47 [9740:2976:0709/164204.477:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jul 09, 2020 19:42:06.52 [9740:2976:0709/194206.526:ERROR:connection_handler_impl.cc(474)] Timed out waiting for GCM Protocol buffer.
+Jul 09, 2020 19:42:06.65 [9740:7652:0709/194206.654:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 09, 2020 19:42:10.46 [9740:2976:0709/194210.465:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 09, 2020 22:15:04.20 [9740:2976:0709/221504.204:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 09, 2020 22:15:04.32 [9740:7652:0709/221504.327:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 09, 2020 22:16:12.33 [9740:7652:0709/221612.331:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 09, 2020 22:16:56.56 [9740:2976:0709/221656.563:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 09, 2020 22:16:56.60 [9740:7652:0709/221656.565:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 09, 2020 22:17:21.44 [9740:2976:0709/221721.439:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jul 09, 2020 22:20:54.12 [9740:2976:0709/222054.120:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Jul 10, 2020 12:35:25.01 NEW SESSION
+Jul 10, 2020 12:35:25.01 [12648:12468:0710/123525.010:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jul 10, 2020 13:02:24.63 [12648:12468:0710/130224.631:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jul 10, 2020 14:16:41.89 [12648:12468:0710/141641.893:ERROR:connection_handler_impl.cc(474)] Timed out waiting for GCM Protocol buffer.
+Jul 10, 2020 14:16:41.94 [12648:8180:0710/141641.935:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 10, 2020 15:17:47.44 [12648:12468:0710/151747.447:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jul 10, 2020 15:17:47.45 [12648:12468:0710/151747.453:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 10, 2020 15:18:16.34 [12648:12468:0710/151816.349:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 10, 2020 15:19:22.19 [12648:12468:0710/151922.194:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 10, 2020 16:28:29.98 [12648:12468:0710/162829.986:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jul 10, 2020 16:28:52.92 [12648:12468:0710/162852.921:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -331
+Jul 10, 2020 18:44:22.57 [12648:12468:0710/184422.574:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 10, 2020 18:44:29.95 [12648:12468:0710/184429.957:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 10, 2020 18:44:34.95 [12648:12468:0710/184434.957:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 10, 2020 18:45:23.82 [12648:12468:0710/184523.820:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 10, 2020 18:54:48.16 [12648:12468:0710/185448.169:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jul 10, 2020 19:03:48.09 [12648:12468:0710/190348.091:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jul 10, 2020 22:43:37.92 [12648:12468:0710/224337.920:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -7
+Jul 10, 2020 22:43:37.93 [12648:8180:0710/224337.925:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 10, 2020 22:43:40.18 [12648:12468:0710/224340.180:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 10, 2020 22:44:22.93 [12648:8180:0710/224422.930:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 10, 2020 22:44:40.14 [12648:12468:0710/224440.140:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 10, 2020 22:45:30.93 [12648:8180:0710/224530.938:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 10, 2020 22:46:06.90 [12648:12468:0710/224606.900:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 10, 2020 22:46:33.46 [12648:12468:0710/224633.463:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 10, 2020 23:18:49.66 [12648:12468:0710/231849.660:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jul 10, 2020 23:26:40.51 [12648:12468:0710/232640.518:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jul 10, 2020 23:27:07.53 [12648:12468:0710/232707.533:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jul 10, 2020 23:34:42.11 [12648:12468:0710/233442.111:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 10, 2020 23:34:46.09 [12648:12468:0710/233446.089:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 10, 2020 23:34:55.25 [12648:8180:0710/233455.254:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 10, 2020 23:36:10.25 [12648:8180:0710/233610.258:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 11, 2020 24:03:19.75 [12648:12468:0711/000319.755:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jul 11, 2020 24:24:21.15 [12648:12468:0711/002421.153:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 11:35:22.71 [12648:8180:0711/113522.711:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 11, 2020 11:35:22.75 [12648:12468:0711/113522.714:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 11, 2020 11:36:12.84 [12648:12468:0711/113612.849:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 11:36:37.71 [12648:8180:0711/113637.714:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 11, 2020 11:37:36.18 [12648:12468:0711/113736.185:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 11:40:25.98 [12648:12468:0711/114025.985:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 11:43:12.75 [12648:8180:0711/114312.754:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 11, 2020 11:45:27.76 [12648:8180:0711/114527.767:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 11, 2020 11:47:18.42 [12648:12468:0711/114718.423:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 11:47:19.77 [12648:8180:0711/114719.779:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 11, 2020 11:57:18.42 [12648:12468:0711/115718.427:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 12:07:18.43 [12648:12468:0711/120718.431:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 12:17:18.43 [12648:12468:0711/121718.434:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 12:27:18.43 [12648:12468:0711/122718.438:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 12:37:18.44 [12648:12468:0711/123718.442:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 12:47:18.44 [12648:12468:0711/124718.445:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 12:57:18.44 [12648:12468:0711/125718.448:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 13:07:18.45 [12648:12468:0711/130718.452:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 13:17:18.45 [12648:12468:0711/131718.454:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 13:19:08.01 [12648:12468:0711/131908.012:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 11, 2020 13:19:19.01 [12648:12468:0711/131919.018:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 11, 2020 13:19:48.03 [12648:12468:0711/131948.033:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 13:22:14.32 [12648:12468:0711/132214.322:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 11, 2020 13:23:52.50 [12648:12468:0711/132352.501:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 13:33:52.50 [12648:12468:0711/133352.505:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 13:43:52.50 [12648:12468:0711/134352.507:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 13:50:52.31 [12648:12468:0711/135052.311:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 11, 2020 13:50:54.51 [12648:12468:0711/135054.515:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 13:51:45.39 [12648:12468:0711/135145.394:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -7
+Jul 11, 2020 13:56:42.08 [12648:12468:0711/135642.082:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 14:22:52.22 [12648:12468:0711/142252.226:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 14:23:18.47 [12648:12468:0711/142318.474:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 14:24:08.39 [12648:12468:0711/142408.393:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 14:29:08.86 [12648:12468:0711/142908.862:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 17:29:16.66 [12648:12468:0711/172916.668:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 22:26:01.10 [12648:12468:0711/222601.101:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 11, 2020 22:36:01.10 [12648:12468:0711/223601.102:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 22:48:08.70 [12648:12468:0711/224808.705:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 11, 2020 22:50:48.99 [12648:12468:0711/225048.997:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Jul 13, 2020 09:45:49.46 NEW SESSION
+Jul 13, 2020 09:45:49.46 [2340:8184:0713/094549.457:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2020 09:45:49.55 [2340:8184:0713/094549.557:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jul 13, 2020 09:46:11.94 [2340:8184:0713/094611.949:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jul 13, 2020 09:46:16.67 [2340:8184:0713/094616.672:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2020 09:46:58.36 [2340:8184:0713/094658.363:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2020 09:47:10.70 [2340:8184:0713/094710.705:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jul 13, 2020 09:48:33.91 [2340:8184:0713/094833.917:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2020 09:48:53.35 [2340:8184:0713/094853.355:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jul 13, 2020 09:52:33.36 [2340:8184:0713/095233.368:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2020 09:52:45.47 [2340:8184:0713/095245.472:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jul 13, 2020 09:59:10.25 [2340:8184:0713/095910.253:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2020 10:00:27.37 [2340:8184:0713/100027.370:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jul 13, 2020 10:00:27.38 [2340:8932:0713/100027.370:ERROR:sharing_service.cc(263)] Device registration failed with transient error
+Jul 13, 2020 10:05:01.45 [2340:8184:0713/100501.450:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jul 13, 2020 10:05:29.65 [2340:8184:0713/100529.657:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jul 13, 2020 10:06:22.45 [2340:8184:0713/100622.450:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jul 13, 2020 10:07:57.80 [2340:8184:0713/100757.802:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jul 13, 2020 10:09:10.25 [2340:8184:0713/100910.257:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2020 10:11:12.29 [2340:8184:0713/101112.299:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jul 13, 2020 10:17:30.05 [2340:8184:0713/101730.057:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2020 10:17:35.70 [2340:8184:0713/101735.709:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jul 13, 2020 10:17:35.74 [2340:8932:0713/101735.709:ERROR:sharing_service.cc(263)] Device registration failed with transient error
+Jul 13, 2020 11:59:34.93 [2340:8184:0713/115934.932:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2020 11:59:42.12 [2340:8184:0713/115942.121:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 12:00:22.34 [2340:8184:0713/120022.348:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 12:01:07.45 [2340:8184:0713/120107.458:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2020 22:00:17.65 [2340:8184:0713/220017.655:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2020 22:00:17.93 [2340:5812:0713/220017.932:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 13, 2020 22:02:02.91 [2340:8184:0713/220202.912:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -118
+Jul 13, 2020 22:22:14.13 [2340:8184:0713/222214.138:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jul 13, 2020 22:39:23.86 [2340:5812:0713/223923.866:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 13, 2020 22:39:28.11 [2340:8184:0713/223928.113:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2020 22:39:50.43 [2340:8184:0713/223950.435:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2020 22:40:38.87 [2340:5812:0713/224038.871:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 13, 2020 22:40:40.36 [2340:8184:0713/224040.367:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2020 22:42:05.43 [2340:8184:0713/224205.439:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2020 22:43:45.87 [2340:5812:0713/224345.878:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 13, 2020 22:45:31.99 [2340:8184:0713/224531.999:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 13, 2020 22:48:26.88 [2340:5812:0713/224826.885:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 13, 2020 22:52:49.93 [2340:8184:0713/225249.938:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 14, 2020 08:51:22.56 [2340:8184:0714/085122.569:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 14, 2020 08:51:22.59 [2340:5812:0714/085122.579:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 14, 2020 09:01:22.57 [2340:8184:0714/090122.572:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 14, 2020 09:01:22.60 [2340:5812:0714/090122.586:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 14, 2020 09:11:22.57 [2340:8184:0714/091122.575:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 14, 2020 09:11:22.59 [2340:5812:0714/091122.592:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 14, 2020 09:32:14.32 [2340:8184:0714/093214.327:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 14, 2020 09:32:36.56 [2340:8184:0714/093236.562:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 14, 2020 09:33:29.50 [2340:8184:0714/093329.505:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 14, 2020 09:34:18.01 [2340:8932:0714/093418.011:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Jul 14, 2020 09:35:12.17 [2340:8184:0714/093512.176:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 14, 2020 09:37:22.34 [2340:5812:0714/093722.346:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 14, 2020 09:38:03.91 [2340:8184:0714/093803.916:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 14, 2020 09:38:37.35 [2340:5812:0714/093837.353:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 14, 2020 09:40:30.36 [2340:5812:0714/094030.361:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Jul 19, 2020 09:01:28.26 NEW SESSION
+Jul 19, 2020 09:01:28.26 [14568:10540:0719/090128.259:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 19, 2020 09:01:55.41 [14568:10540:0719/090155.411:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 19, 2020 09:02:47.28 [14568:10540:0719/090247.285:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 19, 2020 09:04:36.56 [14568:10540:0719/090436.561:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 19, 2020 09:08:03.77 [14568:10540:0719/090803.774:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 19, 2020 09:15:48.32 [14568:10540:0719/091548.328:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 19, 2020 09:25:48.33 [14568:10540:0719/092548.331:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 19, 2020 09:35:48.33 [14568:10540:0719/093548.333:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+Jul 21, 2020 13:58:56.54 NEW SESSION
+Jul 21, 2020 13:58:56.54 [7300:7932:0721/135856.538:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 21, 2020 13:59:22.78 [7300:7932:0721/135922.780:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 21, 2020 14:00:15.18 [7300:7932:0721/140015.185:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 21, 2020 14:02:10.92 [7300:7932:0721/140210.921:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 21, 2020 14:05:31.23 [7300:7932:0721/140531.232:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 21, 2020 14:12:13.22 [7300:7932:0721/141213.224:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 21, 2020 14:22:13.22 [7300:7932:0721/142213.225:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 21, 2020 14:45:07.56 [7300:7932:0721/144507.561:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 21, 2020 14:46:50.26 [7300:7932:0721/144650.268:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 21, 2020 14:50:20.69 [7300:7932:0721/145020.690:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 21, 2020 16:57:05.72 [7300:7932:0721/165705.723:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jul 21, 2020 17:19:28.41 [7300:7932:0721/171928.418:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 21, 2020 17:19:53.18 [7300:7932:0721/171953.186:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 21, 2020 17:20:46.59 [7300:7932:0721/172046.592:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 21, 2020 17:22:07.94 [7300:7932:0721/172207.947:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 21, 2020 17:25:50.66 [7300:7932:0721/172550.661:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 21, 2020 17:33:42.86 [7300:7932:0721/173342.860:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 21, 2020 18:23:17.95 [7300:7932:0721/182317.957:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+Jul 23, 2020 14:33:15.65 NEW SESSION
+Jul 23, 2020 14:33:15.65 [9356:2336:0723/143315.648:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 23, 2020 14:33:40.66 [9356:2336:0723/143340.665:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 23, 2020 14:34:32.22 [9356:2336:0723/143432.227:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 23, 2020 14:35:57.11 [9356:2336:0723/143557.109:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 23, 2020 14:39:25.91 [9356:2336:0723/143925.913:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 23, 2020 14:40:59.94 [11860:12776:0723/144059.943:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 23, 2020 14:41:28.12 [11860:12776:0723/144128.119:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 23, 2020 14:42:13.98 [11860:12776:0723/144213.987:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 23, 2020 14:43:47.93 [11860:12776:0723/144347.929:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 23, 2020 14:44:27.51 [12236:1332:0723/144427.515:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 23, 2020 14:44:49.75 [12236:1332:0723/144449.751:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 23, 2020 14:45:49.41 [12236:1332:0723/144549.410:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 23, 2020 14:47:47.99 [12236:1332:0723/144747.999:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 23, 2020 14:51:33.94 [12236:1332:0723/145133.945:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 23, 2020 14:57:21.77 [12236:1332:0723/145721.771:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 23, 2020 15:58:54.64 [12236:1332:0723/155854.643:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106

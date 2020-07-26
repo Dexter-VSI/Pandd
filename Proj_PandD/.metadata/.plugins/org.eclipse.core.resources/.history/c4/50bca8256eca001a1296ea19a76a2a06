@@ -1,0 +1,91 @@
+	package dao;
+	import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+import DataBase.MysqlConnection;
+
+public class PhotoDao {
+		List<List<String>> PhotoOutterList = new ArrayList<List<String>>();
+		public List<List<String>>  photoList()
+		{
+		try
+		{
+			
+		MysqlConnection obj=new MysqlConnection();
+		Connection con=obj.getcon();
+		String query ="select * from photo";
+	
+		PreparedStatement ps=con.prepareStatement(query);
+		ResultSet rs=ps.executeQuery();
+		List<String> AddList;
+		int count=1;
+			while(rs.next())
+				{	
+						
+				Map<String,List<String>> list= new HashMap<String,List<String>>(); 		
+				if("false".equalsIgnoreCase(String.valueOf(list.containsKey(rs.getInt(1)))))
+				{	AddList=new ArrayList<String>();
+					AddList.add(String.valueOf(rs.getInt(1)));
+					AddList.add(rs.getString(2));
+					AddList.add(rs.getString(4));
+					AddList.add(rs.getString(5));
+					AddList.add(rs.getString(6));
+					list.put(String.valueOf(rs.getInt(1)),AddList);
+				}
+				if(list.containsKey(rs.getInt(1)))
+				{	
+					AddList.add(list.size(), rs.getString(3));
+					list.put(String.valueOf(rs.getInt(1)),AddList);
+				}
+				
+				/*		if(count==1)
+						{
+						list.add(String.valueOf(rs.getInt(1)));
+						list.add(rs.getString(2));
+						list.add(rs.getString(4));
+						list.add(rs.getString(5));
+						list.add(rs.getString(6));
+						count=0;
+						}
+						if(list.contains(String.valueOf(rs.getInt(1))))
+						{
+							list.add(list.size(), rs.getString(3));
+						}
+						for(List<String> test : PhotoOutterList)
+						{
+							System.out.println(test);
+						if("false".equalsIgnoreCase(String.valueOf(test.contains(String.valueOf(rs.getInt(1))))))
+						{
+							count=1;
+						    list=new ArrayList<String>();
+						   
+						}
+						  
+						}
+						PhotoOutterList.add(list);*/
+					
+				}
+						
+				
+		
+				
+			
+	
+		}
+		catch(Exception e)
+		{
+		System.out.print(e);
+		e.printStackTrace();
+		}
+		return PhotoOutterList;
+		}//end of method
+		
+
+	
+
+}

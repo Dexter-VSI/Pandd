@@ -1,0 +1,158 @@
+<%@ page import = "java.io.*,java.util.*,javax.mail.*"%>
+<%@ page import = "javax.mail.internet.*,javax.activation.*"%>
+<%@ page import = "javax.servlet.http.*,javax.servlet.*" %>
+
+<%
+   String result;
+   
+   // Recipient's email ID needs to be mentioned.
+   String to = "abcd@gmail.com";
+
+   // Sender's email ID needs to be mentioned
+   String from = "mcmohd@gmail.com";
+
+   // Assuming you are sending email from localhost
+   String host = "localhost";
+
+   // Get system properties object
+   Properties properties = System.getProperties();
+
+   // Setup mail server
+   properties.setProperty("mail.smtp.host", host);
+
+   // Get the default Session object.
+   Session mailSession = Session.getDefaultInstance(properties);
+
+   try {
+      // Create a default MimeMessage object.
+      MimeMessage message = new MimeMessage(mailSession);
+      
+      // Set From: header field of the header.
+      message.setFrom(new InternetAddress(from));
+      
+      // Set To: header field of the header.
+      message.addRecipient(Message.RecipientType.TO,
+                               new InternetAddress(to));
+      // Set Subject: header field
+      message.setSubject("This is the Subject Line!");
+      
+      // Now set the actual message
+      message.setText("This is actual message");
+      
+      // Send message
+      Transport.send(message);
+      result = "Sent message successfully....";
+   } catch (MessagingException mex) {
+      mex.printStackTrace();
+      result = "Error: unable to send message....";
+   }
+%>
+
+<html>
+   <head>
+      <title>Send Email using JSP</title>
+   </head>
+   
+   <body>
+      <center>
+         <h1>Send Email using JSP</h1>
+      </center>
+      
+      <p align = "center">
+         <% 
+            out.println("Result: " + result + "\n");
+         %>
+      </p>
+   </body>
+</html>
+Let us now put the above code in SendEmail.jsp file and call this JSP using the URL http://localhost:8080/SendEmail.jsp. This will help send an email to the given email ID abcd@gmail.com. You will receive the following response −
+
+Send Email using JSP
+
+Result: Sent message successfully....
+
+
+If you want to send an email to multiple recipients, then use the following methods to specify multiple email IDs −
+
+void addRecipients(Message.RecipientType type, Address[] addresses)
+throws MessagingException
+Here is the description of the parameters −
+
+type − This would be set to TO, CC or BCC. Here CC represents Carbon Copy and BCC represents Black Carbon Copy. Example Message.RecipientType.TO
+
+addresses − This is the array of email ID. You would need to use the InternetAddress() method while specifying email IDs
+
+Send an HTML Email
+Here is an example to send an HTML email from your machine. It is assumed that your localhost is connected to the Internet and that it is capable enough to send an email. Make sure all the jar files from the Java Email API package and the JAF package are available in CLASSPATH.
+
+This example is very similar to the previous one, except that here we are using the setContent() method to set content whose second argument is "text/html" to specify that the HTML content is included in the message.
+
+Using this example, you can send as big an HTML content as you require.
+
+<%@ page import = "java.io.*,java.util.*,javax.mail.*"%>
+<%@ page import = "javax.mail.internet.*,javax.activation.*"%>
+<%@ page import = "javax.servlet.http.*,javax.servlet.*" %>
+
+<%
+   String result;
+   
+   // Recipient's email ID needs to be mentioned.
+   String to = "abcd@gmail.com";
+
+   // Sender's email ID needs to be mentioned
+   String from = "mcmohd@gmail.com";
+
+   // Assuming you are sending email from localhost
+   String host = "localhost";
+
+   // Get system properties object
+   Properties properties = System.getProperties();
+
+   // Setup mail server
+   properties.setProperty("mail.smtp.host", host);
+
+   // Get the default Session object.
+   Session mailSession = Session.getDefaultInstance(properties);
+
+   try {
+      // Create a default MimeMessage object.
+      MimeMessage message = new MimeMessage(mailSession);
+      
+      // Set From: header field of the header.
+      message.setFrom(new InternetAddress(from));
+      
+      // Set To: header field of the header.
+      message.addRecipient(Message.RecipientType.TO, new InternetAddress(to));
+      
+      // Set Subject: header field
+      message.setSubject("This is the Subject Line!");
+     
+      // Send the actual HTML message, as big as you like
+      message.setContent("<h1>This is actual message</h1>", "text/html" );
+      
+      // Send message
+      Transport.send(message);
+      result = "Sent message successfully....";
+   } catch (MessagingException mex) {
+      mex.printStackTrace();
+      result = "Error: unable to send message....";
+   }
+%>
+
+<html>
+   <head>
+      <title>Send HTML Email using JSP</title>
+   </head>
+
+   <body>
+      <center>
+         <h1>Send Email using JSP</h1>
+      </center>
+      
+      <p align = "center">
+         <% 
+            out.println("Result: " + result + "\n");
+         %>
+      </p>
+   </body>
+</html>
