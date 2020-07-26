@@ -1,0 +1,113 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<%@ page  import="java.sql.*,java.util.*,java.io.*"%>
+<%@ page import="java.io.*,java.util.*,javax.mail.*"%>
+<%@ page import="javax.mail.internet.*,javax.activation.*"%>
+<%@ page import="javax.servlet.http.*,javax.servlet.*" %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta >
+<title>Insert title here</title>
+</head>
+
+<body>
+<%
+
+
+String uid1=request.getParameter("uid");
+
+String email1=request.getParameter("email1");
+
+//int empid=3445;
+
+
+
+StringBuffer buffer = new StringBuffer();
+		String characters = "abcdefghijklmnoABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890";
+int charactersLength = characters.length();
+
+		for (int i = 0; i < 6; i++) {
+			double index = Math.random() * charactersLength;
+			buffer.append(characters.charAt((int) index));
+		}
+		String b1=buffer.toString();
+		System.out.println(b1);
+String nn="provided";
+
+String host="", user="", pass="";
+
+host ="smtp.gmail.com"; //"smtp.gmail.com";
+
+user ="ash659808@gmail.com"; //"YourEmailId@gmail.com" // email id to send the emails
+
+pass ="KingintheNorth9808"; //Your gmail password
+
+String SSL_FACTORY = "javax.net.ssl.SSLSocketFactory";
+
+String to =email1; // out going email id
+
+String from ="ash659808@gmail.com"; //Email id of the recipient
+String subject=(String)session.getAttribute("subject");
+//String subject ="welcome";
+
+String messageText ="Your Master Key is="+b1+" ";
+
+
+//session.setAttribute("emailid",emailid);
+boolean sessionDebug = true;
+
+Properties props = System.getProperties();
+props.put("mail.host", host);
+props.put("mail.transport.protocol.", "smtp");
+props.put("mail.smtp.auth", "true");
+props.put("mail.smtp.", "true");
+props.put("mail.smtp.port", "465");
+props.put("mail.smtp.socketFactory.fallback", "false");
+props.put("mail.smtp.socketFactory.class", SSL_FACTORY);
+Session mailSession = Session.getDefaultInstance(props, null);
+mailSession.setDebug(sessionDebug);
+Message msg = new MimeMessage(mailSession);
+msg.setFrom(new InternetAddress(from));
+InternetAddress[] address = {new InternetAddress(to)};
+msg.setRecipients(Message.RecipientType.TO, address);
+msg.setSubject(subject);
+msg.setContent(messageText, "text/html"); // use setText if you want to send text
+Transport transport = mailSession.getTransport("smtp");
+transport.connect(host, user, pass);
+try {
+transport.sendMessage(msg, msg.getAllRecipients());%>
+<script type="text/javascript">
+    alert("Master Key created successfully and successfully send to mail........");
+    window.location='ttp_home.jsp';</script>
+<%}
+catch (Exception err) {
+
+out.println("message not successfully sended"); // assume it’s a fail
+}
+transport.close();
+
+
+
+
+
+
+
+try
+{
+Class.forName("com.mysql.jdbc.Driver");
+Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/temporary_keyword", "root", "admin");
+PreparedStatement ps=conn.prepareStatement("update owner_register set status='"+b1+"' where userid='"+uid1+"'");
+ps.executeUpdate();
+//response.sendRedirect("view.jsp");
+}
+catch(Exception e1)
+{
+out.println(e1.getMessage());
+}
+
+
+%>
+
+</body>
+</html>
